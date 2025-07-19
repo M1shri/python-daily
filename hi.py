@@ -1,4 +1,4 @@
-a=2
-b=2.01
-c = a==b
+a=1
+b=2
+c = b and a
 print(c)
